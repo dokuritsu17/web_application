@@ -1,2 +1,2 @@
 # web_application
-We application for beginners
+Web application for beginners
